@@ -28,7 +28,7 @@ export const Footer = (props: FooterProps) => {
         <div className="flex flex-row items-center gap-2">
           <a
             className="mr-auto font-medium text-muted-foreground text-xs transition duration-200 hover:text-primary hover:duration-0 sm:mr-4"
-            href={`https://github.com/1focus_ai/1focus/edit/main/docs/pages${pathname}.mdx`}
+            href={`https://github.com/1focus-ai/1focus/edit/main/docs/pages${pathname}.mdx`}
             rel="noreferrer"
             target="_blank"
           >
